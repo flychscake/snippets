@@ -1,0 +1,1283 @@
+[
+    {
+        "desc": "Este is a ticket for a trial that can change the appearance",
+        "id": 110000010,
+        "name": "Este ticket (trial)",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "This Este ticket that can change the appearance",
+        "id": 110000011,
+        "name": "Este ticket",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "This Este ticket that can change the gender and appearance",
+        "id": 110000021,
+        "name": "Sex change with Este ticket",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "This Este ticket that can change the voice of the character",
+        "id": 110000031,
+        "name": "Extra Voice ticket",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Raw another and appearance, is the esthetic ticket that can change the voice",
+        "id": 110000041,
+        "name": "VIP Este ticket",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Reset the skills that you learn in the class currently in use, skill\nTickets can be reduced to the point\nAvailable \u203b from the skills board",
+        "id": 150000010,
+        "name": "Skill reset ticket",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Recovery agents that are produced in the Bureau of Reclamation. To adventurers, if necessary\nIt is paid. It is flavored sweet syrup, the captive of taste\nSounding had adventurers also not a few.",
+        "id": 200000001,
+        "name": "Field dedicated and recovery agents \u2160",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Recovery agents that are produced in the Bureau of Reclamation. To adventurers, if necessary\nIt is paid. In addition to the crude drug of vegetable origin, engram is purified\nHas been formulated, it can respond to a variety of scratch.",
+        "id": 200000002,
+        "name": "Field dedicated and recovery agents \u2161",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Recovery agents that are produced in the Bureau of Reclamation. To adventurers, if necessary\nIt is paid. Due to the use of selected materials, the manufacturing number\nBut not many, that amount effect is proven.",
+        "id": 200000003,
+        "name": "Field dedicated and recovery agents \u2162",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "To activate the engram in the body by taking, combat, etc.\nDrink agent that has the effect to heal the wounds suffered was. Available on the general public\nStomach, many adventurers know and love.",
+        "id": 310000001,
+        "name": "Payment and recovery agents \u2160",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Luxury of recovery agents that material began to heal even in carefully selected deep scratches the\nGoods. There is an effect and value above the price. Some experience\nIf I adventurer, you want to keep standing.",
+        "id": 310000002,
+        "name": "Payment and recovery agents \u2161",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "And plenty of using the high-grade material, recovery and further enhance the effect\nmedicine. Can not be made only to the excellent Yakushi the Bureau of Reclamation has been approved. Dangerous place\nEven for first-class adventurers who go to the place, reassuring support.",
+        "id": 310000003,
+        "name": "Payment and recovery agents \u2162",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Encourage biological engram, incense to speed the healing of the wound. designated\nHeal of using an incense burner, a lot of people to spread the fragrance in a wide range at a time\nbe able to.",
+        "id": 310000004,
+        "name": "Payment-healing aroma",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Luxury goods of incense with a recovery effect. And the smell of quality are different, efficiency\nResults also improved. The Bureau of Reclamation, be used without hesitation in an emergency\nIt recommends that.",
+        "id": 310000005,
+        "name": "Payment-healing aroma \u2161",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "A blend of different types of incense, further enhances the recovery effect one\nGoods. Immediately have an effect, as the lifeline of the adventurers of the party\nIt has been a boon Te.",
+        "id": 310000006,
+        "name": "Payment-healing aroma \u2162",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Vitality by taking the Minagiri, Dorin to recover the stamina\nClick agent. The Magunia fruit juice of which is from the old to the Magna continent\nOn the base, it is made in the old-fashioned recipe.",
+        "id": 310000007,
+        "name": "Drops of paid-Magunia \u2160",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Punching select the more effective raw materials, enhance the recovery effect of stamina\nThe drinks. Become a somewhat darker seasoned than that of the conventional\nThere.",
+        "id": 310000008,
+        "name": "Drops of paid-Magunia \u2161",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "The nut of the fruit juice of Magunia, be combined with expensive chemicals\nDrink agent created by. In addition strong stamina recovery effect\nExhibit. Aftertaste is some remain.",
+        "id": 310000009,
+        "name": "Drops of paid-Magunia \u2162",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. By taking, the body\nIt is adjusted to a normal state of engram. Heritage of Bafaria\nTo produce without relying on technology has not yet been established.",
+        "id": 310000010,
+        "name": "Payment-Rikabaru",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. In the body by taking\nTo stabilize the fire attribute engram, it is adjusted to a normal state. Angry\n'Re interested in seeing effective in Rippoi people.",
+        "id": 310000011,
+        "name": "Payment-Rikabaru - fire",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. In the body by taking\nIce attribute engram to stabilize, is adjusted to a normal state. cold\nIt says also effective against example of, but efficacy is mixed by the people.",
+        "id": 310000012,
+        "name": "Payment-Rikabaru - ice",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. In the body by taking\nThe lightning engram is stabilized, is adjusted to a normal state. Static\nIt may play a role in the removal of electricity.",
+        "id": 310000013,
+        "name": "Payment-Rikabaru - thunder",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. In the body by taking\nSat attribute engram to stabilize, is adjusted to a normal state. shoulder\nStiffness seems can be taken, but there is no scientific basis.",
+        "id": 310000014,
+        "name": "Payment-Rikabaru - Sat",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. In the body by taking\nThe light attribute engram is stabilized, is adjusted to a normal state. I\nTo say that from, you do not look directly at the sun.",
+        "id": 310000015,
+        "name": "Payment-Rikabaru - light",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Bafaria civilization era made the drug. In the body by taking\nThe darkness attribute engram is stabilized, is adjusted to a normal state. Drop\nPattern that people use when yelling blood are a certain number.",
+        "id": 310000016,
+        "name": "Payment-Rikabaru - darkness",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. It acts directly on the muscle, muscle\nTemporarily enhance the force. In the mines of Rittsue, miners are\nAlso it is used for the purpose of assisting the heavy lifting.",
+        "id": 320000001,
+        "name": "Star oil of paid-force",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Engram from ore\nTo generate a curtain of hard from, to mitigate the impact. God of Bafaria\nAs bless is felt, it is also believers to love.",
+        "id": 320000002,
+        "name": "Star oil be safety provision -",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Flow of biological engram\nEstablished a, to promote natural healing. Also used in the field of medical\nCage, familiar to the general public as well as adventurers.",
+        "id": 320000003,
+        "name": "Star oil of payment and life",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. The engram in the air\nAbsorption, and increase the concentration of the user. Old assist in the prayer and scry\nThe purpose there is also a record that had been used in that.",
+        "id": 320000004,
+        "name": "Star oil of payment and spiritual",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Ene fire attribute the material\nGram is contained in a large amount. To promote the circulation of biological engram, fire\nImprove the conversion efficiency to the attribute attack.",
+        "id": 320000005,
+        "name": "Star oil of payment, fire",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. The temperature in the vicinity of the user\nIt has the property to decrease. A hint to the coolant of Bafaria heritage\nObtained was made, but the principle has not been elucidated.",
+        "id": 320000006,
+        "name": "Star oil of paid-ice",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. The engram of lightning\nIt is mixed with pieces of ore that contains. Care by engram\nIt induces the breakdown of the body, to strengthen the lightning attack.",
+        "id": 320000007,
+        "name": "Star oil of payment, lightning",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Note the engram in the ground\nOne of the entrance, and take out the special soil that has been building in years material\nAnd it is known by the characteristic method.",
+        "id": 320000008,
+        "name": "Star oil of payment, Saturday",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. By it bathed in the light of the moon\nIt used a special plant material to accumulate a large amount of light attribute engram\nIt has been.",
+        "id": 320000009,
+        "name": "Star oil of paid-light",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. While carrying the dragon tribe originally\nCage, that had been collected on the battlefield. Initially because of it,\nIt seems to have Moi adventurer to be shunned.",
+        "id": 320000010,
+        "name": "Payment-darkness of star oil",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Included in the fire attribute attack\nIn response to the engram to exhibit tolerance. Moesaka riding in tone\nJump to that flame, Toka was a adventure who has serious burns.",
+        "id": 320000011,
+        "name": "Star oil of paid-fire",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Or plant to be distributed in the highlands\nFormulated La extracted fats and oils, produce resistance to ice attribute. Northern\nIn the area it is also used as a protection against the cold.",
+        "id": 320000012,
+        "name": "Star oil of paid-ice class",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Engura on the surface of the skin\nBirth flow beam, to form a layer divert lightning. Bafaria heritage\nAdventurer to carry in order to prevent the risk of electrical shock in the remains of many.",
+        "id": 320000013,
+        "name": "Star oil of payment, lightning protection",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Mons that live in the ground\nTha is, secrete a similar substance. The sediment containing the engram\nThe reaction was, that is to smooth the movement of in the ground.",
+        "id": 320000014,
+        "name": "Star oil of paid-earth and",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. A substance to refract light\nAs one of the material, to exhibit resistance to light attributes. Occasional use\nIt seems there may appear distorted figure of the person.",
+        "id": 320000015,
+        "name": "Star oil of payment and light",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Chemicals was made to purify the engram. Originating in the oldest among others\nHas been one of the bright has been star oil. Once travelers we, night\nIt was carried around as elixir that will be guarded from the darkness.",
+        "id": 320000016,
+        "name": "Star oil of paid-\u8010\u95c7",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Provisional",
+        "id": 320000017,
+        "name": "Payment-Mashirubeho",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "Provisional",
+        "id": 320000018,
+        "name": "Payment-Mashirubeho",
+        "unidentified_desc": "-",
+        "unidentified_name": "-"
+    },
+    {
+        "desc": "It discovered from the ground of Asteria plains crystals. The engram rich\nWherein the wealth, especially because of their high affinity with Imagine, anti for mining\nThe road was made.",
+        "id": 400000001,
+        "name": "Lake lid crystal",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "Fragments of bone that seems to be of the dragon group. Heavily heavy, eerie\nIt gives off intimidated.",
+        "id": 400000002,
+        "name": "Fragments of the keel",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "Very hard keel of the pieces. In Some people struggling to scraping the surface, processing\nIt requires a large-scale apparatus is in.",
+        "id": 400000003,
+        "name": "Piece of rigid keel",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "Small parts that are used in the center of the heritage of Bafaria. Sama\nIt seems to have hidden the Zama force, but the structure and the principle is not well understood.",
+        "id": 400000004,
+        "name": "Integrated core",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "Integrated core with hidden high performance. Not a almost the size\nTo exert several times the power of conventional integrated core only one.",
+        "id": 400000005,
+        "name": "High-performance integrated core",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "First beautiful jewel found in the vicinity of your pillar of Kamikaka. \"Buffers\nIt is also said to be a gift \"from the rear of God, representative of the Bahamaru Plateau\nSpecial product to be.",
+        "id": 400000006,
+        "name": "Baja Mar yellow",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "There is no impurities, high-quality Baja Mar yellow. Of Bafaria\nOnly the person who is loved by God has been handed down to be able to hand.",
+        "id": 400000007,
+        "name": "Fine Baja Mar yellow",
+        "unidentified_desc": "Special materials and A, which can be obtained by mainly Disrupt dungeon\nItem class. In the state of unidentified, such know is, the specific name\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unknown booty"
+    },
+    {
+        "desc": "Land Fox drop claw.",
+        "id": 500000001,
+        "name": "Claw of land Fox",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of land Fox"
+    },
+    {
+        "desc": "Large tusks that Tyrant bore Glow is dropped.",
+        "id": 500000002,
+        "name": "Daikiba of Tyrant Boa Glow",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Tyrant Boa Glow"
+    },
+    {
+        "desc": "Nail goblin drop.",
+        "id": 500000003,
+        "name": "Goblin nails",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin"
+    },
+    {
+        "desc": "Sharp claws Goblin glow is dropped.",
+        "id": 500000004,
+        "name": "The nails of the Goblin Glow",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin Glow"
+    },
+    {
+        "desc": "Claw to drop a special elder goblin \"trick Elder\".",
+        "id": 500000005,
+        "name": "Nail trick Elder",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost trick Elder"
+    },
+    {
+        "desc": "Bone Hongoto is dropped.",
+        "id": 500000006,
+        "name": "Bone of Hongoto",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Hongoto"
+    },
+    {
+        "desc": "Fur Uribo is dropped.",
+        "id": 500000007,
+        "name": "Fur Uribo",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Uribo"
+    },
+    {
+        "desc": "Tail land Fox drop.",
+        "id": 500000008,
+        "name": "Tail of land Fox",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of land Fox"
+    },
+    {
+        "desc": "Tail to drop a special land Fox \"Takeru beast\".",
+        "id": 500000009,
+        "name": "Tail of Takeru beast",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Takeru beast"
+    },
+    {
+        "desc": "Fang Highland Fox drop.",
+        "id": 500000010,
+        "name": "Fang of Highland Fox",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Highland Fox Lost"
+    },
+    {
+        "desc": "It overlooked a special Highland Fox \"sapphire trot\"\nTo Fang.",
+        "id": 500000011,
+        "name": "Fang of sapphire trot",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of sapphire trot"
+    },
+    {
+        "desc": "Special Uribo \"Pinkuuribo\" is drop fur.",
+        "id": 500000012,
+        "name": "Fur Pinkuuribo",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Pinkuuribo"
+    },
+    {
+        "desc": "Rumble bore drop fur.",
+        "id": 500000013,
+        "name": "Fur Rumble bore",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost rumble bore"
+    },
+    {
+        "desc": "Tyrant fur bore drop.",
+        "id": 500000014,
+        "name": "Fur of Tyrant bore",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Tyrant bore"
+    },
+    {
+        "desc": "Fur to drop a special rumble bore \"dark green fangs\".",
+        "id": 500000015,
+        "name": "Fur of dark green Fang",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost in the dark green of the Fang"
+    },
+    {
+        "desc": "Undecided",
+        "id": 500000016,
+        "name": "Undecided",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Tyrant Boa Glow is drop fur.",
+        "id": 500000017,
+        "name": "Fur Tyrant Boa Glow",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Tyrant Boa Glow"
+    },
+    {
+        "desc": "Special Tyrant Boa Glow \"Takeru gold\" is drop fur.",
+        "id": 500000018,
+        "name": "Golden fur that Takeru",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of golden Takeru"
+    },
+    {
+        "desc": "Mane goblin drop.",
+        "id": 500000019,
+        "name": "Goblin mane",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 500000020,
+        "name": "CBT does not use",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Goblin Glow is drop mane.",
+        "id": 500000021,
+        "name": "Mane of Goblin Glow",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin Glow"
+    },
+    {
+        "desc": "Elder Goblin drop mane.",
+        "id": 500000022,
+        "name": "Elder Goblin mane",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Elder Goblin"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 500000023,
+        "name": "CBT does not use",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Elder Goblin glow is drop mane.",
+        "id": 500000024,
+        "name": "Mane of Elder Goblin Glow",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Elder Goblin Glow"
+    },
+    {
+        "desc": "Goblin Sage drop mane.",
+        "id": 500000025,
+        "name": "Goblin sage mane",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin sage"
+    },
+    {
+        "desc": "Elder Goblin Glow uses a cane. A little larger than the normal one\nIt is made hear.",
+        "id": 500000026,
+        "name": "Cane of large Goblin",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Elder Goblin Glow"
+    },
+    {
+        "desc": "Special Goblin sage \"bad healing hand\" is drop mane.",
+        "id": 500000027,
+        "name": "Bad healing mane of hand",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of bad healing hand"
+    },
+    {
+        "desc": "Fur Hongoto is dropped.",
+        "id": 500000028,
+        "name": "Fur Hongoto",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Hongoto"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 500000029,
+        "name": "CBT does not use",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Kaiser elk drop fur.",
+        "id": 500000030,
+        "name": "Kaiser Elk fur",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Kaiser Elk"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 500000031,
+        "name": "CBT does not use",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Bone auger drop.",
+        "id": 500000032,
+        "name": "Bone of the auger",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of the auger"
+    },
+    {
+        "desc": "Bone to drop a special auger \"flame prison\".",
+        "id": 500000033,
+        "name": "Bone of flame prison",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of the flame prison"
+    },
+    {
+        "desc": "Nail Highland Fox drop.",
+        "id": 500000034,
+        "name": "The nails of Highland Fox",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Highland Fox Lost"
+    },
+    {
+        "desc": "Rumble bore drop fangs.",
+        "id": 500000035,
+        "name": "Fang Rumble bore",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost rumble bore"
+    },
+    {
+        "desc": "Tyrant bore drop fangs.",
+        "id": 500000036,
+        "name": "Fang of the Tyrant bore",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Tyrant bore"
+    },
+    {
+        "desc": "Tyrant Boa Glow is drop fangs.",
+        "id": 500000037,
+        "name": "Fang of the Tyrant Boa Glow",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Tyrant Boa Glow"
+    },
+    {
+        "desc": "Poor weapons low Goblin of status is used. Affordable wood them\nOnly sharpened properly, it is not suitable for practical use.",
+        "id": 500000038,
+        "name": "Poor Goblin club",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin"
+    },
+    {
+        "desc": "Poor cane Elder Goblin uses. But form only, Eng\nThe effect is not particularly such that easy to handle the ram.",
+        "id": 500000039,
+        "name": "Wand of poor goblins",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Elder Goblin"
+    },
+    {
+        "desc": "Goblin Sage uses a cane. Some decorated, power and authority\nThe shows.",
+        "id": 500000040,
+        "name": "Wand decorated Goblin",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost Goblin sage"
+    },
+    {
+        "desc": "Hongoto is drop the corner.",
+        "id": 500000041,
+        "name": "Corner of Hongoto",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Hongoto"
+    },
+    {
+        "desc": "Corner Kaiser Elk is dropped.",
+        "id": 500000042,
+        "name": "The corner of Kaiser Elk",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of Kaiser Elk"
+    },
+    {
+        "desc": "Corner auger drop.",
+        "id": 500000043,
+        "name": "Corner of the auger",
+        "unidentified_desc": "Materials and items such available by mainly monster subjugation.\nIn the state of non-expert opinion, do not know is, the specific name. Back to the city\nAnd the details are known, it will be able to take advantage of.",
+        "unidentified_name": "Lost of the auger"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of the land Fox.\nIt is used to craft the battle Imagine.",
+        "id": 520000001,
+        "name": "Of land Fox Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Very pneumatronic of special land Fox \"Takeru beast\" was substance of\nSmall crystals.\nIt is used to craft the battle Imagine.",
+        "id": 520000002,
+        "name": "Takeru beast of Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Special Highland Fox pneumatronic of \"sapphire trot\"\nBut very small crystals materialized.\nIt is used to craft the battle Imagine.",
+        "id": 520000003,
+        "name": "Sapphire trot of Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Very small pneumatronic special Uribo \"Pinkuuribo\" was substance of\nDo not crystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000004,
+        "name": "Idea of \u200b\u200bPinkuuribo",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of the Tyrant bore.\nIt is used to craft the battle Imagine.",
+        "id": 520000005,
+        "name": "Tyrant bore of the Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Very small that pneumatronic has substance of the special rumble bore \"dark green fangs\"\nIt is a crystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000006,
+        "name": "Idea of \u200b\u200bthe dark green of the Fang",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "A very small special Tyrant pneumatronic of the bore \"Tetsukiba\" was substance of\nDo not crystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000007,
+        "name": "Idea of \u200b\u200bTetsukiba",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Special Tyrant bore Glow pneumatronic the substance of the \"Takeru golden\"\nThe tiny crystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000008,
+        "name": "Takeru golden Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals Goblin pneumatronic has materialized.\nIt is used to craft the battle Imagine.",
+        "id": 520000009,
+        "name": "Goblin Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Very small pneumatronic of special Goblin \"red splash\" was substance of\ncrystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000010,
+        "name": "Red splash of Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Substance is pneumatronic of special Elder Goblin \"trick Elder\"\nIt phased tiny crystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000011,
+        "name": "Trick Elder Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of the Goblin sage.\nIt is used to craft the battle Imagine.",
+        "id": 520000012,
+        "name": "Goblin sage of Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Vicious Mind of special Goblin sage \"bad healing hand\" was substance of\nVery small crystals.\nIt is used to craft the battle Imagine.",
+        "id": 520000013,
+        "name": "Bad healing hand of Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of Hongoto.\nIt is used to craft the battle Imagine.",
+        "id": 520000014,
+        "name": "Idea of \u200b\u200bHongoto",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Vicious Mind is substance of the special Hongoto \"Spooky Goat\"\nVery small crystals.\nIt is used to craft the battle Imagine.",
+        "id": 520000015,
+        "name": "Spooky Goat Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of the Kaiser Elk.\nIt is used to craft the battle Imagine.",
+        "id": 520000016,
+        "name": "Kaiser Elk Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Very small pneumatronic of special Kaiser Elk \"flame angle\" has been materialized\nDo not crystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000017,
+        "name": "Idea of \u200b\u200bflame angle",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of the special auger \"flame prison\".\nIt is used to craft the battle Imagine.",
+        "id": 520000018,
+        "name": "Idea of \u200b\u200bflame prison",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Tiny crystals pneumatronic has substance of the Elder Goblin.\nIt is used to craft the battle Imagine.",
+        "id": 520000019,
+        "name": "Elder Goblin Idea",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Very small pneumatronic of Abaritia \"Turbulent Kibao\" was substance of\ncrystal.\nIt is used to craft the battle Imagine.",
+        "id": 520000020,
+        "name": "Idea of \u200b\u200bTurbulent Kibao",
+        "unidentified_desc": "Creatures of Vicious Mind is associated with engram, very small crystals.\nIn the state of unidentified, such sure if those derived from specifically to what\nThere. Back to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "The mystery of the Idea"
+    },
+    {
+        "desc": "Small parts that can be found from the heritage and the building of Bafaria civilization. which one\nBut also looks to the same kind of form, various species According to the repair mechanic heritage\nThere is a kind, applications also seems different.",
+        "id": 600000004,
+        "name": "Integrated circuit",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Fossil of tree. Since the ancient vegetation is known, the botanists and Earth Science's\nAnd Ku stick around. Those in good condition, which kept the original appearance of the tree\nIt may also be used as a decorative furniture and building.",
+        "id": 600000005,
+        "name": "Petrified wood",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Very hard metal plate. Often used in the heritage of parts of Bafaria\nIt has been. Not sure whether made of what the modern human tricks\nIn the surgery, it is not possible to reproduce this hardness.",
+        "id": 600000006,
+        "name": "Curing plate",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Part of the fossil of a giant fish that lived in ancient times. Or\nBecome a large scale, since it contains the unique stripe pattern, other\nIt can be distinguished from stones and fossils.",
+        "id": 600000007,
+        "name": "Ancient fish scales",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Beautiful stone circular ripple-like pattern was over and over again overlap. Oh adults\nIt can be divided by bare hands if Re. Cracks in a ring shape along the pattern\nCharacteristic that that.",
+        "id": 610000001,
+        "name": "Corrugated stone",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Ore that can be taken out of the metal that Asuteriumu of properties similar to iron.\nFor strong to corrosion than iron, reliability and maintenance-free \u5fc5\nIt has been widely used as a material in the main scene.",
+        "id": 610000002,
+        "name": "Asuteriumu ore",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Precious stones that had been called by various names from the old days. Bafaria civilization era\nCrafted nurse Zillah has devised a revolutionary cut method, the enormous wealth Built\nThat changed the nickname of the stone along with the clause.",
+        "id": 610000003,
+        "name": "Zillah pyroxene",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Iron, which is included in the stone, which was flying from the sky. The iron found in the ground\nBecause it contains engram of different composition, the special tool\nIt is useful as a raw material.",
+        "id": 610000004,
+        "name": "Fragments of iron meteorites",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Ore can be purified metal Rimeriru that conducts biological engram.\nWhen pressed against the body, it begins light from the portion touching little by little\nThere is nature.",
+        "id": 610000005,
+        "name": "Rimeriru ore",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Moss there is a name in the record from the early days of Bafaria civilization, long\nAnd was the fossil over gastric years. It is popular as a material of Sakuniwa\nYes, unique taste is preferred.",
+        "id": 610000006,
+        "name": "Fossil of Magna moss",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Ore as a raw material of iron. Many have been mined together in mine\nThat. And ore is scattered by vein exposed to the earth's surface has weathered\nThere is a case you are, adventurers are finding picking up.",
+        "id": 610000007,
+        "name": "Iron ore",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Stronger than iron, Baja steel with the conductivity of the high engram raw materials\nTo become ore. A skillful materials such as armor, but very troublesome to manufacture\nSince the take, not used much in common tools.",
+        "id": 610000008,
+        "name": "Baja ore",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Thing and also of the dragon group, of large tusks, which are also said to be of huge beast\nstone. Biological engram is slightly remained. You can decorate the shelves\nShine for, is also often buy property owners.",
+        "id": 610000009,
+        "name": "Fossil of Daikiba",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Granular of ore with a pale luster. Scattered metal which is incorporated into the rock\nIt raba' have to, in order to like think the star of the night sky, this name is\nIt is said that with.",
+        "id": 610000010,
+        "name": "Quiet night ore",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "A kind of often gems that are used in jewelry. Elements of practical tools\nBut insufficient strength as wood, very easy to use in the decoration. Courtesy\nThere is such that the small knife is made to use.",
+        "id": 610000011,
+        "name": "jasper",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Stone is characterized by the shape you want rounded cheesy. From where it can take of this stone\nThere is a legend that the gush of water or hot water. Or just a coincidence, I\nOr Nraka of reason is located in a not yet been elucidated.",
+        "id": 610000012,
+        "name": "Gushing stone",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "A kind of ore. For cold enough to shiver to the touch, this name is attached, et al.\nIt has been. Even if left to stand for several hours in the sun, as soon as the transfer in the shade\nRegain the cold in.",
+        "id": 610000013,
+        "name": "Cold shock copper",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Shellfish fossils that live in the water. How much old things, details, know\nAbsent. But, it has the same shape as the shell that can be seen even now\nWhat is almost a mystery in many cases.",
+        "id": 610000014,
+        "name": "Fossils of shellfish",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Fine silver, which are mixed into the soil and sand. Large quantities collect the is quite\nvery. But that melt cast picked up patiently, make Ginkai\nbe able to.",
+        "id": 610000015,
+        "name": "Sunagin",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Quite missing ore in the beaten track near. On very hard, blade\nWas named from the fact that the pointed shape as. Weighs\nBut even so, it carries easily.",
+        "id": 610000016,
+        "name": "Kuang cry \u7adc",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Fossil bone has changed over the years. This shape is similar\nAnd from, are considered as a small dragon group bone.",
+        "id": 610000017,
+        "name": "Pterosaur fossil",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "Small and pretty flowers. His own life girl named Ramtha is the ends of the tragic love\nThe cut off, God of Bafaria has changed its body to the flowers have mercy Toi\nCormorants there is a tradition.",
+        "id": 620000001,
+        "name": "Ramtha of flowers",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Large poet, sang the beauty swaying in Honogura is past the midnight\nPlants named in it was. It is to have the power to dismiss the sickness,\nSometimes decorated in the house.",
+        "id": 620000002,
+        "name": "Akatsuki grass",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "One year grass is growing To bushy long hair in thin leaf surface of. this\nLive is a small insect between the hair, it has kept the long hair grass from pests. Its\nFor, carry out the boiled before use as a raw material.",
+        "id": 620000003,
+        "name": "Hairy grass",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "In response to the light of the moon at night, named et al from that shining leaves brilliantly\nThe grass. It attracts flies by diffused reflection of light, advanced pollination\nRi, it has been or is the transport of the species.",
+        "id": 620000004,
+        "name": "Stardust grass",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Fruit of the shrub Boolean. Very hard, it bursts open at high temperatures once come to fruition\nIt will remain on the tree until. Scattered sowing seeds, etc. is around the mountain fire\nIs et al., A new Boolean is budding in ruins.",
+        "id": 620000005,
+        "name": "Real Boolean",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Forest king Tsudoran was brought up trees. In the past, it was called the king cedar,\nInglorious name has been fixed along with the downfall of the clan. Its branches is ominous of\nAs a symbol, it is used to secretly gift.",
+        "id": 620000006,
+        "name": "Sunset cedar twig",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Twigs fell from Andorra cedar that emits a distinctive aroma. Handiwork and Neri\nIt is also used in the material of the incense. Than those of just fell from the tree\nAlso, more of those dried there is a strong smell.",
+        "id": 620000007,
+        "name": "Andorra cedar twig",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Moss that release spores in a large amount as dense smoke when impacting one\nseed. Although there is no particular harm inhale, not stop sneezing\nBecome. Children are often used to mischief and play.",
+        "id": 620000008,
+        "name": "Smoke moss",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Rubbing the back prefer the bear, large leaves, which is said to sharpen the claws. Decoction\nTo become a refreshing mood and drink Flip tea, surprisingly popular high\nThere. One of the hunters of the source of income.",
+        "id": 620000009,
+        "name": "Leaves of Beatsuri",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Such as around the rivers and ponds, low grass the back of many that grows in the water. Stalk\nIt has been known to store the water in parts. Hurling a rupture\nBecause the water splashes in, popular with children.",
+        "id": 620000010,
+        "name": "Round aquatic plants",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "A kind of popular lilies in elegant shades. Beautiful swaying between vegetation\nYou can see the appearance. Rather than as a material, as an ornamental\nThere is a request also collected.",
+        "id": 620000011,
+        "name": "Plateau lily",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Driftwood that has been exposed to water. The size and shape also a mixed, but the flow of the river\nPolished surface is in? Yo like a stone. Own\nShape of deer produce is, can not be reproduced by the hand of man.",
+        "id": 620000012,
+        "name": "Branch of driftwood",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Flowers with a romantic atmosphere, which bloom in the clear stream. Limited to the waterside\nAlthough it is possible to see Raz, this which also grows in areas of high moisture\nBet there are many. The form of the petals are also very similar to water droplets.",
+        "id": 620000013,
+        "name": "Aqua Flower",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Seeds of plants that gives off a sweet fragrance. Delicious to eat as it is. To\nRi liquid has high adhesiveness obtained by crushing, adhesive or protecting agent\nIt is used in a variety of applications, such as.",
+        "id": 620000014,
+        "name": "Species of nectar",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Nuts of Plesiomonas that are apparent in various places. Big during the\nThere is a seed, it has become the food of the animals. Too solid, human\nNot a little eat.",
+        "id": 620000015,
+        "name": "Real Bureshio",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Fruit to become a shrub. Astringency is very strong, not for food. A\nWith a strong scent features reminiscent of alcohol, eat this is also in the dragon group\nIt is said that that the drunk.",
+        "id": 620000016,
+        "name": "Dragon Venom",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Flowers blooming in favor of a dark place. The bud is usually is closed tightly, touch\nOpen and give the Runado stimulus. Reminiscent of the bark of the time beast\nSince the sound is, this is named.",
+        "id": 620000017,
+        "name": "Longan flowers",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of plant resources"
+    },
+    {
+        "desc": "Carnivorous fish of medium-sized. Intense rampage sore after hanging on the hook,\nThere is popular with anglers seeking a thrill, but the nuisance from fishermen\nIt has been handled is. The taste is bland.",
+        "id": 630000001,
+        "name": "Astel bus",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of the aquatic resources"
+    },
+    {
+        "desc": "Stone often found in underwater. Why sure to the crescent-shaped\nCage, because the engram in some form is produced involved\nIt is believed that or not.",
+        "id": 630000002,
+        "name": "Crescent moon stone",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of the aquatic resources"
+    },
+    {
+        "desc": "The whole body covered with fish scales, such as the thorn. It was pointed on the hard\nBecause, care must be taken when the touch. Only is delicious, bland taste\nBut, I cooked hard time.",
+        "id": 630000003,
+        "name": "Spike Fish",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of the aquatic resources"
+    },
+    {
+        "desc": "Ore the silver of raw materials. There is little luster, seen as a normal rock\nBecause the eye does not change, it is difficult to distinguish. It was irradiated with light\nSlight trick is locate a clue a reflection of the time.",
+        "id": 630000004,
+        "name": "Silver ore",
+        "unidentified_desc": "Materials and items that can be obtained by sampling of mainly in the field\nKind. In the state of non-expert opinion, do not know is, the specific name. In the city\nBack when the details are revealed, it will be able to take advantage of.",
+        "unidentified_name": "The mystery of mineral resources"
+    },
+    {
+        "desc": "And Kaiser Elk, and the goblins of the material with the authority in the herd\nThe multiplied together made the alloy. Yurame in response to engram\nIt emits a memorial service light, somewhere feel dignity.",
+        "id": 700000001,
+        "name": "Imperial alloy",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "The material mined from the powerful Tyrant bore, multiplied by the sharp ore\nAlloy born in that match. Hardly bend weak elasticity\nOf of, it is known by the more hard.",
+        "id": 700000002,
+        "name": "Rigid steel",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "A tool used by the goblin wearing a high wisdom, the well-chilled copper\nMaterial made to fit over. Even with a high temperature of ambient, low temperature\nIt is possible to maintain the.",
+        "id": 700000003,
+        "name": "Spelling cold",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "A small pearl of biological engram is born crystallized. Body of primarily biological\nFound from within. Although there is no special force, because it cleanly clear\nIt is popular as casual jewelry.",
+        "id": 710000000,
+        "name": "Runojemu",
+        "unidentified_desc": "Including the body of the monster, clean found in various locations\nZhuhai. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unidentified Runojemu"
+    },
+    {
+        "desc": "A small pearl of biological engram is born crystallized. Body of primarily biological\nFound from within. Although there is no special force, because it cleanly clear\nIt is popular as casual jewelry.",
+        "id": 710000001,
+        "name": "Runojemu Ickx",
+        "unidentified_desc": "Including the body of the monster, clean found in various locations\nZhuhai. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unidentified Runojemu"
+    },
+    {
+        "desc": "A small pearl of biological engram is born crystallized. Body of primarily biological\nFound from within. Although there is no special force, because it cleanly clear\nIt is popular as casual jewelry.",
+        "id": 710000002,
+        "name": "Runojemu-Murukku",
+        "unidentified_desc": "Including the body of the monster, clean found in various locations\nZhuhai. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unidentified Runojemu"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 710000003,
+        "name": "Cash amount (large)",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 710000004,
+        "name": "Cash amount (extra large)",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Rich in by glowing mushrooms engram. As a rock hard, and the\nYou can not also eat. Since the cut powder is shining, colorful dishes\nIt is preferred as.",
+        "id": 711000000,
+        "name": "Runokinoko",
+        "unidentified_desc": "Including the collection in the field, found in various locations shiny key\nSaw. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unidentified Runokinoko"
+    },
+    {
+        "desc": "Rich in by glowing mushrooms engram. As a rock hard, and\nIt is not possible to eat even. Since the cut powder is shining, the cuisine\nIt is preferred as colorful.",
+        "id": 711000001,
+        "name": "Runokinoko Ickx",
+        "unidentified_desc": "Including the collection in the field, found in various locations shiny key\nSaw. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unidentified Runokinoko"
+    },
+    {
+        "desc": "Rich in by glowing mushrooms engram. As a rock hard, and\nIt is not possible to eat even. Since the cut powder is shining, the cuisine\nIt is preferred as colorful.",
+        "id": 711000002,
+        "name": "Runokinoko-Murukku",
+        "unidentified_desc": "Including the collection in the field, found in various locations shiny key\nSaw. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Unidentified Runokinoko"
+    },
+    {
+        "desc": "Coins made in old age. Or found in the ruins, Mons\nTar is or not Tamekon. A variety of pattern is engraved,\nIt is also valuable as research material.",
+        "id": 712000000,
+        "name": "Ancient coins, flowers",
+        "unidentified_desc": "Including the ruins of Bafaria, hard of ancient found in various locations\nCurrency. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Not appraisal of coins"
+    },
+    {
+        "desc": "Coins made in old age. Or found in the ruins, Mons\nTar is or not Tamekon. A variety of pattern is engraved,\nIt is also valuable as research material.",
+        "id": 712000001,
+        "name": "Ancient coins and fruits",
+        "unidentified_desc": "Including the ruins of Bafaria, hard of ancient found in various locations\nCurrency. In the state of non-expert opinion, I do not know the specific value.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Not appraisal of coins"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 712000002,
+        "name": "Database gold with other transducer 3",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 713000000,
+        "name": "For cash anything 1",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 713000001,
+        "name": "Cash anything for 2",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 713000002,
+        "name": "For cash anything 3",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Artificial Eng that the Bafaria civilization era was used as a power source\nLamb crystal. Because it was large quantities used, in the current lost productive technology\nIt is also easily find, used in refining.",
+        "id": 750000000,
+        "name": "Hoshineri crystal",
+        "unidentified_desc": "Star kneading crystal just got.\nIn the state of unidentified, the intensity of the specific value and scouring do not know.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Not appraisal of star kneading crystal"
+    },
+    {
+        "desc": "Artificial Eng that the Bafaria civilization era was used as a power source\nLamb crystal. Because it was large quantities used, in the current lost productive technology\nIt is also easily find, used in refining.",
+        "id": 750000001,
+        "name": "Hoshineri crystal \u2161",
+        "unidentified_desc": "Star kneading crystal just got.\nIn the state of unidentified, the intensity of the specific value and scouring do not know.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Not appraisal of star kneading crystal"
+    },
+    {
+        "desc": "Artificial Eng that the Bafaria civilization era was used as a power source\nLamb crystal. Because it was large quantities used, in the current lost productive technology\nIt is also easily find, used in refining.",
+        "id": 750000002,
+        "name": "Hoshineri crystal \u2162",
+        "unidentified_desc": "Star kneading crystal just got.\nIn the state of unidentified, the intensity of the specific value and scouring do not know.\nBack to the city when the details are revealed, will be able to take advantage of.",
+        "unidentified_name": "Not appraisal of star kneading crystal"
+    },
+    {
+        "desc": "Provisional",
+        "id": 800000001,
+        "name": "Ieggu",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Provisional",
+        "id": 800000002,
+        "name": "Ieggu",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "Test items that enemy to drop",
+        "id": 800000010,
+        "name": "Enemy test items",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "(Provisional) Chan range box",
+        "id": 800000020,
+        "name": "Challenge box",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "(Provisional) payment product test",
+        "id": 800000030,
+        "name": "Recovery agents (paid product)",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "(Provisional) payment product test",
+        "id": 800000040,
+        "name": "Given the damage up (paid product)",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "(Provisional) payment product test",
+        "id": 800000050,
+        "name": "The damage reduction (paid product)",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    },
+    {
+        "desc": "CBT does not use",
+        "id": 900000001,
+        "name": "Test for scouring material",
+        "unidentified_desc": "Provisional",
+        "unidentified_name": "Provisional"
+    }
+]
